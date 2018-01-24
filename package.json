@@ -12,7 +12,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "homepage": "https://github.com/jenniredfield/calculator.git",
+    "homepage": "https://github.com/jenniredfield/calculator",
     "deploy" : "npm run build&&gh-pages -d build"
   },
   "devDependencies": {
