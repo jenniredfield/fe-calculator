@@ -70,8 +70,8 @@ class App extends Component {
         </header>
 
         <section>
-          <div id="calc">
-            <div class="input-div">
+          <div className="calculator">
+            <div className="calculator__display">
               {inputNum}
             </div>
             <div className="calculator__rows">
